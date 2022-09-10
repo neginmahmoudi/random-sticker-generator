@@ -1,0 +1,12 @@
+{
+  "name": "random-sticker-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "repository": "https://github.com/neginmahmoudi/random-sticker-generator.git",
+  "author": "Negin Mahmoudi <negin.mahmoudii76@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-emoji": "^1.11.0"
+  }
+}
